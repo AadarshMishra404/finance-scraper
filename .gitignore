@@ -42,10 +42,7 @@ companies_index.json
 *_extracted_*.json
 *_extracted_*.txt
 
-# HTML files (large)
-*.html
-info/
-!example.html
+
 
 # Result directories
 result/
